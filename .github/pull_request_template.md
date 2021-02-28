@@ -1,5 +1,3 @@
-## JIRA Ticket: BS-
-
 ### Purpose of This Change and/or Context
 
 -
